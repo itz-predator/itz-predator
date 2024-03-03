@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-predator&label=Profile%20views&color=0e75b6&style=flat" alt="itz-predator" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-predator" alt="itz-predator" /></a> </p>
-
 - 🔭 I’m currently working on **SAP ABAP**
 
 - 🌱 I’m currently learning **Fullstack Development**
@@ -25,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-predator&show_icons=true&locale=en" alt="itz-predator" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-predator&" alt="itz-predator" /></p>
