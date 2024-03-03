@@ -1,5 +1,5 @@
 ![Banner](banner.png)
-<img align ="right" src="coding1.gif" alt="coding1"  width="250" >
+<img align ="right" src="coding2.gif" alt="coding1"  width="400" height="600">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-predator&label=Profile%20views&color=0e75b6&style=flat" alt="itz-predator" /> </p>
 
 - 🔭 I’m currently working on **SAP ABAP**
